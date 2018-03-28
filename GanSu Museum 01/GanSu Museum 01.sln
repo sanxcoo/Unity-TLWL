@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GanSu Museum 01", "GanSu Museum 01.csproj", "{6E137966-B128-C7AB-FA0F-9D0E1F1BE3F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GanSu Museum 01.Editor", "GanSu Museum 01.Editor.csproj", "{181FBB23-D487-BCF4-AFBD-E4BBF1112AC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E137966-B128-C7AB-FA0F-9D0E1F1BE3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E137966-B128-C7AB-FA0F-9D0E1F1BE3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E137966-B128-C7AB-FA0F-9D0E1F1BE3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E137966-B128-C7AB-FA0F-9D0E1F1BE3F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181FBB23-D487-BCF4-AFBD-E4BBF1112AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181FBB23-D487-BCF4-AFBD-E4BBF1112AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181FBB23-D487-BCF4-AFBD-E4BBF1112AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181FBB23-D487-BCF4-AFBD-E4BBF1112AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
